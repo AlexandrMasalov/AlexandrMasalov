@@ -6,7 +6,7 @@
 📬   Contact me at: msl8282@gmail.com (or via messengers below)
 
 ---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mslsash&theme=dark&show_icons=true)](https://github.com/AlexandrMasalov/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrMasalov&theme=dark&show_icons=true)](https://github.com/AlexandrMasalov/)
 
 ### Links to messengers:
 
