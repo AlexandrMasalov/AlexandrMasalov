@@ -8,6 +8,8 @@
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrMasalov&theme=dark&show_icons=true)](https://github.com/AlexandrMasalov/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrMasalov&layout=compact)](https://github.com/AlexandrMasalov/github-readme-stats)
+
 ### Links to messengers:
 
 [<img align="left" alt="AlexandrMasalov | Telegram" width="35px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
