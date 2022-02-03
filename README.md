@@ -1,20 +1,27 @@
 # Alexandr Masalov
 
-### Hi there 👋
+<h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕩𝕒𝕟𝕕𝕖𝕣</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">💻   I'm open to new job opportunities</h3>
+<h3 align="center">📬   Contact me at: msl8282@gmail.com (or messengers)</h3>
 
-💻   I'm open to new job opportunities<br>
-📬   Contact me at: msl8282@gmail.com (or via messengers below)
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrMasalov&theme=dark&show_icons=true)](https://github.com/AlexandrMasalov/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrMasalov&layout=compact)](https://github.com/AlexandrMasalov/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlexandrMasalov)](https://github.com/AlexandrMasalov/github-profile-trophy)<br>
+<br>
+[![codewars](https://www.codewars.com/users/mslsash/badges/large)](https://www.codewars.com/users/mslsash) 
+
+
 ### Links to messengers:
 
 [<img align="left" alt="AlexandrMasalov | Telegram" width="35px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="AlexandrMasalov | WhatsApp" width="35px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 <br>
+
 
 ---
 ### My Tech Stack:
@@ -31,4 +38,4 @@
 <br>
 
 [telegram]: https://t.me/Masaloff
-[whatsapp]: https://wa.me/79268659122
+[whatsapp]: https://wa.me/79268659122<br>
