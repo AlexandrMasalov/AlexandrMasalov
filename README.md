@@ -9,7 +9,6 @@
 ### Links to messengers:
 
 [<img align="left" alt="AlexandrMasalov | Telegram" width="35px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="AlexandrMasalov | WhatsApp" width="35px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
 <br>
 
 
