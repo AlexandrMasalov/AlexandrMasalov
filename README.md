@@ -6,16 +6,6 @@
 <h3 align="center">📬   Contact me at: msl8282@gmail.com (or messengers)</h3>
 
 
----
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandrMasalov&theme=dark&show_icons=true)](https://github.com/AlexandrMasalov/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrMasalov&layout=compact)](https://github.com/AlexandrMasalov/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlexandrMasalov)](https://github.com/AlexandrMasalov/github-profile-trophy)<br>
-<br>
-[![codewars](https://www.codewars.com/users/mslsash/badges/large)](https://www.codewars.com/users/mslsash) 
-
-
 ### Links to messengers:
 
 [<img align="left" alt="AlexandrMasalov | Telegram" width="35px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
@@ -38,4 +28,3 @@
 <br>
 
 [telegram]: https://t.me/Masaloff
-[whatsapp]: https://wa.me/79268659122<br>
