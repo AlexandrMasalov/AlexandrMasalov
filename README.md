@@ -2,7 +2,6 @@
 
 <h1 align="center">ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 𝔸𝕝𝕖𝕩𝕒𝕟𝕕𝕖𝕣</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">💻   I'm open to new job opportunities</h3>
 <h3 align="center">📬   Contact me at: msl8282@gmail.com (or messengers)</h3>
 
 
